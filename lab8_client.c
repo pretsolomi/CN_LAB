@@ -1,7 +1,7 @@
 /*Create a LAN network between two computers. Test the connection using ‘ping’. Write
 a report mentioning the steps involved.
 */
-//CLIENT
+//CLIENT  testing code
 
 #include <stdio.h>
 #include <stdlib.h>
