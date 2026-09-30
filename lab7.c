@@ -3,7 +3,13 @@
       b) Capture UDP packets and dump the result to a log file
       c) Capture ICMP packets and dump the result to a log file 
 */
-
+//to run use : sudo gcc lab7.c -o lab7 && ./lab7
+//or
+/*
+//to run use : 
+1st: sudo gcc lab7.c -o lab7 
+2nd : ./lab7
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
